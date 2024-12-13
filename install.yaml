@@ -1,0 +1,7 @@
+name: wordpress-vite
+pre_install_actions:
+project_files:
+  - docker-compose.vite.yaml
+global_files:
+post_install_actions:
+yaml_read_files:
