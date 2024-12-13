@@ -1,4 +1,4 @@
-name: wordpress-vite
+name: ddev-wordpress-vite
 pre_install_actions:
 project_files:
   - docker-compose.vite.yaml
